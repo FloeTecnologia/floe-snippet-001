@@ -1,6 +1,5 @@
 {
   "name": "@floe/snippet-Z9z9njPBrPGMPQpgGmer",
-  "description": "Implemente Assistente ChatGPT no ManyChat para gerenciar horários do Google Agenda",
   "license": "https://www.floe.com.br/terms-service",
   "private": true,
   "author": {
@@ -9,9 +8,5 @@
     "url": "https://www.floe.com.br"
   },
   "main": "index.js",
-  "version": "1.0.0",
-  "dependencies": {
-    "googleapis": "^144.0.0",
-    "moment": "^2.30.1"
-  }
+  "version": "1.0.0"
 }
