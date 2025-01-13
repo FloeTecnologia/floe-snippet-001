@@ -8,5 +8,8 @@
     "url": "https://www.floe.com.br"
   },
   "main": "index.js",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
